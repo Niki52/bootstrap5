@@ -1,0 +1,8 @@
+.modal-footer .btn-secondary a{
+    text-decoration: none;
+    color: white;
+}
+.modal-body .form-check a{
+    text-decoration: none;
+    color: black;
+}
